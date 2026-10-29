@@ -1,0 +1,1109 @@
+{
+  "notices": [
+    {
+      "source_page_id": "kaggle:00000831",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000083559",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000104448",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000114117",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000153377",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000159555",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:0000229184",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:01329768",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:03023805",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:03551612",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:03563613",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:03747860",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:03754144-b",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:10009243",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1001866123_1001866124",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1002404594",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003120857",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003286334",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003387594",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003537794-a",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003538042-c",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003538199-a",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003543120",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003640109",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003659451_1003659454",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1003722129",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:1005111374",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:10421720_10421729",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:10427746",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:10429748",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:11280472",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:11292395",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:11293403",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:11301143",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2021204574",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2023129971",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2023286661",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2023457760",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2023489783",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2024182848",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2024313532",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2024318141",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2028620226",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2028638180",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2028704495",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2030714615",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2041089398",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2048509434",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2048858141",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2050247507",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2054838139_2054838140",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2055663076",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2058501637",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2059196199",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2061991348",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2063181986",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2064984702",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2070717320_7321",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2070897169",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2071465080_5081",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2071466317_6318",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2071722490",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2071991216",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2072201232",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2072482454",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2072949212",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2073624878",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2073724138",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2074179164",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2078115137",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2078576212_6288",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2078853416b_3418",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2078870030",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2079132129",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2079180199",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2080116567a",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2080257713",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2080714838",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2080726921_6923",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2081465234a",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2083779691",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2084619272_9273",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2085524059_4065",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2085568558",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2085601691",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2086080713",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2086083943",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2086086330",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:24010243_24010244",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501015790",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501047925",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501052565",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501231184",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501658355",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2501929589",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505141976",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505154716",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505169075",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505203747",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505360669_0670",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505365152",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:2505370845",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:40035380-5380",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:40049902-9903",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:500195739_500195747",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:500206087_500206093",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:500272849_500272900",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50076168",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:501656496",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:501713950_501713953",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:502071859_502071866",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:502108541+-8546",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:502218620",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:502592126",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50285926-5933",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50296092-6093",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50308888-8889",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:503165138",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50357861-7862",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504034961_504034962",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504081353_504081354",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50421027-1027",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50431906-1906",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504361271_504361273",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50450234-0234",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50453779-3780",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50457000-7001",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50476159-6160",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504774700_504774702",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504789202_504789204",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504880625_504880626",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:504923090_504923091",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50501854-1854",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:505051340_505051343",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50513051-3052",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50535699-5699",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50538795-8796",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50538978-8979",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50589377-9378",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50591446-1447",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:506192666_506192667",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:506342778",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50636686-6687",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:50639278-9279",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:506483587_506483588",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:507222734",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:507806606",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:507920731_507920735",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:508871780+-1783",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:509322176+-2176",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:510934211+-4215",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:511421807",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:514120277",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:514217348+-7349",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:514725860_514725861",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:514948201+-8201",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:515245506+-5506",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:516597850+-7850",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:518654143_518654144",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:520709850+-9850",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:522873332+-3332",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:527970475+-0476",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:527974846+-4846",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:527990161+-0162",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:528008233+-8233",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:528483841+-3842",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:528759181+-9183",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:603677",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:60438302",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:653346",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:679995",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:71826079",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:81071627_1629",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:88025179",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:88063780",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:88141193",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:88980966",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:89002796",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:93422915",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:93443778",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:94054618",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:tnwl0000110_0112",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:tob09314.17",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    },
+    {
+      "source_page_id": "kaggle:tob19002.28_tob19002.30",
+      "license": "MIT (user-supplied Kaggle notice)",
+      "file": "data/licenses/f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d.md",
+      "sha256": "f3076610b951b024b7d38dacb67216cf13cc651b74b59f5d6986446b4f419d8d"
+    }
+  ],
+  "omitted_calibration": "generated and local-only rows"
+}

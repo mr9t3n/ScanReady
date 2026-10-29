@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "python_version": "3.11.16",
+  "release": "20260924",
+  "source": "astral-sh/python-build-standalone",
+  "platforms": {
+    "windows-x64": {
+      "archive": {
+        "path": "vendor/python/cpython-3.11.16+20260924-x86_64-pc-windows-msvc-install_only.tar.gz",
+        "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20260924/cpython-3.11.16%2B20260924-x86_64-pc-windows-msvc-install_only.tar.gz",
+        "sha256": "0dc3a404d4d6501f3b8f99d58354410a0b1699dd5c21070778a594db02070dd3"
+      },
+      "wheels": "vendor/wheels/windows-x64",
+      "pdfium_license": "vendor/licenses/pdfium/windows-x64-LICENSE.txt"
+    },
+    "macos-arm64": {
+      "archive": {
+        "path": "vendor/python/cpython-3.11.16+20260924-aarch64-apple-darwin-install_only.tar.gz",
+        "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20260924/cpython-3.11.16%2B20260924-aarch64-apple-darwin-install_only.tar.gz",
+        "sha256": "d718e3c5c6f4b225ed25f88bf65e4c5d314e0dea0d716ea50bc9d038630c502b"
+      },
+      "wheels": "vendor/wheels/macos-arm64",
+      "pdfium_license": "vendor/licenses/pdfium/macos-arm64-LICENSE.txt"
+    },
+    "macos-x86_64": {
+      "archive": {
+        "path": "vendor/python/cpython-3.11.16+20260924-x86_64-apple-darwin-install_only.tar.gz",
+        "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20260924/cpython-3.11.16%2B20260924-x86_64-apple-darwin-install_only.tar.gz",
+        "sha256": "a93ee2dd8f2dbddbd85a0c9f1739f98d6ead305cbf445918a2fe28deb77f2d4b"
+      },
+      "wheels": "vendor/wheels/macos-x86_64",
+      "pdfium_license": "vendor/licenses/pdfium/macos-x86_64-LICENSE.txt"
+    },
+    "linux-x86_64": {
+      "archive": {
+        "path": "vendor/python/cpython-3.11.16+20260924-x86_64-unknown-linux-gnu-install_only.tar.gz",
+        "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20260924/cpython-3.11.16%2B20260924-x86_64-unknown-linux-gnu-install_only.tar.gz",
+        "sha256": "49a52eb189878431a36efd137e7cd08f6429e59dc049b9cfb030bf706eb33fd4"
+      },
+      "wheels": "vendor/wheels/linux-x86_64",
+      "pdfium_license": "vendor/licenses/pdfium/linux-x86_64-LICENSE.txt"
+    }
+  }
+}

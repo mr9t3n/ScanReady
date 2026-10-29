@@ -1,0 +1,213 @@
+{
+  "acceptance": {
+    "failures": [
+      "Held-out evaluation requires at least 50 held-out images; found 47.",
+      "Held-out evaluation requires at least 6 blur examples; found 0.",
+      "Held-out evaluation requires at least 6 skew examples; found 0.",
+      "Held-out evaluation requires at least 6 glare examples; found 0.",
+      "Held-out evaluation requires at least 6 shadow examples; found 0.",
+      "Held-out evaluation requires at least 6 low_contrast examples; found 0.",
+      "Held-out evaluation requires at least 6 cropped_edges examples; found 0.",
+      "Recommendation accuracy must be at least 0.80; measured 0.617.",
+      "Deskew accuracy requires recoverable 2-15 degree held-out rotations; found 0."
+    ],
+    "passed": false
+  },
+  "by_origin": {
+    "scholarly": {
+      "confusion_matrix": [
+        [
+          29,
+          2,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "deskew": {
+        "accuracy": 0.0,
+        "eligible": 0,
+        "successful": 0
+      },
+      "image_count": 47,
+      "outcome_order": [
+        "READY",
+        "READY AFTER CORRECTION",
+        "RETRY CAPTURE"
+      ],
+      "per_defect": {
+        "blur": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        },
+        "cropped_edges": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 16,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        },
+        "glare": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        },
+        "low_contrast": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        },
+        "shadow": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        },
+        "skew": {
+          "f1": 0.0,
+          "false_negative": 0,
+          "false_positive": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "support": 0,
+          "true_positive": 0
+        }
+      },
+      "recommendation_accuracy": 0.617021,
+      "timing": {
+        "mean_seconds": 0.466751,
+        "slowest_seconds": 1.573296
+      }
+    }
+  },
+  "config_sha256": "c930ec5613ef2610b41c7f7dbf48a1106f2d9a970f3fc4f18d0b13d344f25e27",
+  "metrics": {
+    "confusion_matrix": [
+      [
+        29,
+        2,
+        16
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "deskew": {
+      "accuracy": 0.0,
+      "eligible": 0,
+      "successful": 0
+    },
+    "image_count": 47,
+    "outcome_order": [
+      "READY",
+      "READY AFTER CORRECTION",
+      "RETRY CAPTURE"
+    ],
+    "per_defect": {
+      "blur": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      },
+      "cropped_edges": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 16,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      },
+      "glare": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      },
+      "low_contrast": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      },
+      "shadow": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      },
+      "skew": {
+        "f1": 0.0,
+        "false_negative": 0,
+        "false_positive": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 0,
+        "true_positive": 0
+      }
+    },
+    "recommendation_accuracy": 0.617021,
+    "timing": {
+      "mean_seconds": 0.466751,
+      "slowest_seconds": 1.573296
+    }
+  },
+  "package_versions": {
+    "Pillow": "10.4.0",
+    "matplotlib": "3.9.2",
+    "numpy": "1.26.4",
+    "opencv-python-headless": "4.6.0.66",
+    "pandas": "2.2.2",
+    "pypdfium2": "4.30.0",
+    "python": "3.11.16",
+    "streamlit": "1.38.0"
+  },
+  "schema_version": 1,
+  "seed": 415
+}

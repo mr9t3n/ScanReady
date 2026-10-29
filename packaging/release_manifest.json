@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "archive_root": "ScanReady",
+  "max_zip_bytes": 3600000000,
+  "reject_symlinks": true,
+  "reject_path_escape": true,
+  "required_files": [
+    "ScanReady-Windows.bat",
+    "ScanReady-macOS.command",
+    "ScanReady-Linux.sh",
+    "setup/install_and_run.sh",
+    "app.py",
+    "README.md",
+    "FUTURE_WORK.md",
+    "THIRD_PARTY_NOTICES.md",
+    "requirements.txt",
+    "requirements-lock.txt",
+    "environment.yml",
+    "pytest.ini",
+    ".streamlit/config.toml",
+    "scanready/__init__.py",
+    "scanready/__main__.py",
+    "scanready/cli.py",
+    "scanready/launch.py",
+    "scanready/config.py",
+    "scanready/report.py",
+    "scanready/image_io.py",
+    "scanready/pdf_io.py",
+    "scanready/page.py",
+    "scanready/checks.py",
+    "scanready/decision.py",
+    "scanready/corrections.py",
+    "scanready/overlay.py",
+    "scanready/pipeline.py",
+    "scanready/synthetic.py",
+    "scanready/dataset.py",
+    "scanready/metrics.py",
+    "scanready/evaluate.py",
+    "config/thresholds.yaml",
+    "data/README.md",
+    "data/sources.csv",
+    "data/captured_labels.csv",
+    "data/manifest.csv",
+    "demo_images/clean_document.jpg",
+    "demo_images/correctable_document.jpg",
+    "demo_images/retry_capture_document.jpg",
+    "demo_images/expected.csv",
+    "results/calibration.md",
+    "results/per_image.csv",
+    "results/metrics.json",
+    "results/confusion_matrix.png",
+    "results/summary.md",
+    "results/development-disclosure.md",
+    "results/development_status.json",
+    "tests/conftest.py",
+    "tests/test_image_io.py",
+    "tests/fixtures/multipage.pdf",
+    "tests/fixtures/first_page.pdf",
+    "tests/fixtures/encrypted.pdf",
+    "tests/test_checks.py",
+    "tests/test_decision.py",
+    "tests/test_corrections.py",
+    "tests/test_pipeline.py",
+    "tests/test_app.py",
+    "tests/test_dataset.py",
+    "tests/test_metrics.py",
+    "tests/test_launch.py",
+    "tests/test_release.py",
+    "tools/build_release.py",
+    "tools/verify_release.py",
+    "packaging/runtime.json",
+    "packaging/release_manifest.json",
+    "scanready/demos.py",
+    "scanready/results_ui.py",
+    "tests/test_demos.py",
+    "data/calibration.csv",
+    "data/heldout.csv",
+    "demo_images/SMARTDOC_NOTICE.md",
+    "tools/stage_release_data.py",
+    "tests/test_stage_release_data.py",
+    "demo_images/KAGGLE_NOTICE.md",
+    "demo_images/CLEAN_SOURCE.md",
+    "demo_images/CORRECTABLE_SOURCE.md"
+  ],
+  "allowed_trees": [
+    {
+      "path": "data/sources",
+      "extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png"
+      ],
+      "minimum_files": 1,
+      "purpose": "normalized EXIF-free source pages"
+    },
+    {
+      "path": "data/captured",
+      "extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png"
+      ],
+      "minimum_files": 0,
+      "purpose": "normalized EXIF-free real degraded captures"
+    },
+    {
+      "path": "results/examples",
+      "extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png"
+      ],
+      "minimum_files": 0,
+      "purpose": "selected evaluation overlays"
+    },
+    {
+      "path": "data/licenses",
+      "extensions": [
+        ".md",
+        ".txt",
+        ".json"
+      ],
+      "minimum_files": 1,
+      "purpose": "byte-identical selected source notices and source-page notice index"
+    }
+  ],
+  "runtime": {
+    "manifest": "packaging/runtime.json",
+    "archive_directory": "vendor/python",
+    "archive_names_from_manifest": true,
+    "verify_sha256": true,
+    "wheel_directories": [
+      "vendor/wheels/windows-x64",
+      "vendor/wheels/macos-arm64",
+      "vendor/wheels/macos-x86_64",
+      "vendor/wheels/linux-x86_64"
+    ],
+    "wheel_extensions": [
+      ".whl"
+    ],
+    "required_pdf_package": {
+      "name": "pypdfium2",
+      "version": "4.30.0",
+      "platform_wheels_required": true,
+      "preserve_bundled_pdfium_licenses": true,
+      "notice_file": "THIRD_PARTY_NOTICES.md"
+    }
+  },
+  "text_transforms": [
+    {
+      "extensions": [
+        ".bat"
+      ],
+      "newline": "crlf"
+    },
+    {
+      "extensions": [
+        ".sh",
+        ".command"
+      ],
+      "newline": "lf",
+      "archive_mode": "0755"
+    }
+  ],
+  "forbidden": [
+    ".codex/",
+    ".git/",
+    ".github/",
+    ".tarmac/",
+    ".claude/",
+    ".vscode/",
+    ".idea/",
+    ".runtime/",
+    ".venv/",
+    "dist/",
+    "outputs/",
+    "data/raw/",
+    "data/generated/",
+    "__pycache__/",
+    ".pytest_cache/",
+    ".mypy_cache/",
+    "htmlcov/",
+    ".coverage",
+    "AGENTS.md",
+    "CLAUDE.md",
+    ".env",
+    ".env.*",
+    "*.pyc",
+    "*.pyo",
+    "*.log",
+    "*.tmp",
+    "*.zip"
+  ]
+}

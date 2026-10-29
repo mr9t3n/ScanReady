@@ -1,0 +1,10 @@
+# ScanReady runs on this computer only.
+# headless: no first-run prompt; the terminal prints the local URL (http://localhost:8501).
+# address: serve on localhost only.  gatherUsageStats: no usage statistics are sent anywhere.
+[server]
+headless = true
+address = "localhost"
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false

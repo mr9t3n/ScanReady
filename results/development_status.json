@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "population_id": "development-approved-v1",
+  "candidate_label": "Evaluated with disclosed shortfalls",
+  "qualification": false,
+  "working_population": {
+    "total": 202,
+    "calibration": 144,
+    "heldout": 58
+  },
+  "evaluated_population": {
+    "total": 184,
+    "calibration": 137,
+    "heldout": 47,
+    "scholarly": 184,
+    "captured": 0
+  },
+  "omitted_captures": {
+    "total": 18,
+    "calibration": 7,
+    "heldout": 11
+  },
+  "report_sha256": {
+    "metrics.json": "75e3b1ff708a014caf8e735c4e3e31c16a799eab9f5534b6614c2818a778d601",
+    "per_image.csv": "ad134b186deab142d6c751ab7ad7a158d45b745d914641fc00fa37d157708261",
+    "confusion_matrix.png": "6178ba3bed53c82e86a0c8d7aa5534f632f30d72fc638f2ee81eeb003c458cf4",
+    "summary.md": "68584a2d89983210c33866c3ff1ba9863273593063763c2437e75e8385ba25e5",
+    "development-disclosure.md": "17c041086a2751342963b32bb3f7b486de82e3476d8d0ff05858f9d5a65b6a7c"
+  },
+  "failed_checks": [
+    "Held-out evaluation requires at least 50 held-out images; found 47.",
+    "Held-out evaluation requires at least 6 blur examples; found 0.",
+    "Held-out evaluation requires at least 6 skew examples; found 0.",
+    "Held-out evaluation requires at least 6 glare examples; found 0.",
+    "Held-out evaluation requires at least 6 shadow examples; found 0.",
+    "Held-out evaluation requires at least 6 low_contrast examples; found 0.",
+    "Held-out evaluation requires at least 6 cropped_edges examples; found 0.",
+    "Recommendation accuracy must be at least 0.80; measured 0.617.",
+    "Deskew accuracy requires recoverable 2-15 degree held-out rotations; found 0."
+  ],
+  "platform_gates": {
+    "fresh_windows_offline_extraction": "unperformed",
+    "native_macos": "unperformed",
+    "manual_candidate_walkthrough": "unperformed"
+  },
+  "cut_line": {
+    "approved_by": "project owner",
+    "approved_on": "2026-09-28",
+    "basis": "Honest disclosed shortfall permitted by Sprint 03 DoD; held-out data unchanged; no tuning on held-out results."
+  }
+}

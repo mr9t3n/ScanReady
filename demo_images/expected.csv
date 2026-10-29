@@ -1,0 +1,4 @@
+file,expected_outcome,temporary
+clean_document.jpg,READY,false
+correctable_document.jpg,READY AFTER CORRECTION,false
+retry_capture_document.jpg,RETRY CAPTURE,false
